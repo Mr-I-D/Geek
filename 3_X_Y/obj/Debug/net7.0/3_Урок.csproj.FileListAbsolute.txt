@@ -1,0 +1,14 @@
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\bin\Debug\net7.0\3_Урок.exe
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\bin\Debug\net7.0\3_Урок.deps.json
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\bin\Debug\net7.0\3_Урок.runtimeconfig.json
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\bin\Debug\net7.0\3_Урок.dll
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\bin\Debug\net7.0\3_Урок.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\obj\Debug\net7.0\3_Урок.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\obj\Debug\net7.0\3_Урок.AssemblyInfoInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\obj\Debug\net7.0\3_Урок.AssemblyInfo.cs
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\obj\Debug\net7.0\3_Урок.csproj.CoreCompileInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\obj\Debug\net7.0\3_Урок.dll
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\obj\Debug\net7.0\refint\3_Урок.dll
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\obj\Debug\net7.0\3_Урок.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\obj\Debug\net7.0\3_Урок.genruntimeconfig.cache
+C:\Users\Это ПТО\Desktop\C#\GB\3_Урок\obj\Debug\net7.0\ref\3_Урок.dll

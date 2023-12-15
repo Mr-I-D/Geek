@@ -1,0 +1,14 @@
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\bin\Debug\net7.0\6_Урок_Mass.exe
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\bin\Debug\net7.0\6_Урок_Mass.deps.json
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\bin\Debug\net7.0\6_Урок_Mass.runtimeconfig.json
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\bin\Debug\net7.0\6_Урок_Mass.dll
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\bin\Debug\net7.0\6_Урок_Mass.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\obj\Debug\net7.0\6_Урок_Mass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\obj\Debug\net7.0\6_Урок_Mass.AssemblyInfoInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\obj\Debug\net7.0\6_Урок_Mass.AssemblyInfo.cs
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\obj\Debug\net7.0\6_Урок_Mass.csproj.CoreCompileInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\obj\Debug\net7.0\6_Урок_Mass.dll
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\obj\Debug\net7.0\refint\6_Урок_Mass.dll
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\obj\Debug\net7.0\6_Урок_Mass.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\obj\Debug\net7.0\6_Урок_Mass.genruntimeconfig.cache
+C:\Users\Это ПТО\Desktop\C#\GB\6_Урок_Mass\obj\Debug\net7.0\ref\6_Урок_Mass.dll

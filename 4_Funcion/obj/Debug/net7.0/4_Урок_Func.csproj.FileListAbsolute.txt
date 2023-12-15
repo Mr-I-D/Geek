@@ -1,0 +1,14 @@
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\bin\Debug\net7.0\4_Урок_Func.exe
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\bin\Debug\net7.0\4_Урок_Func.deps.json
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\bin\Debug\net7.0\4_Урок_Func.runtimeconfig.json
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\bin\Debug\net7.0\4_Урок_Func.dll
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\bin\Debug\net7.0\4_Урок_Func.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\obj\Debug\net7.0\4_Урок_Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\obj\Debug\net7.0\4_Урок_Func.AssemblyInfoInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\obj\Debug\net7.0\4_Урок_Func.AssemblyInfo.cs
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\obj\Debug\net7.0\4_Урок_Func.csproj.CoreCompileInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\obj\Debug\net7.0\4_Урок_Func.dll
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\obj\Debug\net7.0\refint\4_Урок_Func.dll
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\obj\Debug\net7.0\4_Урок_Func.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\obj\Debug\net7.0\4_Урок_Func.genruntimeconfig.cache
+C:\Users\Это ПТО\Desktop\C#\GB\4_Урок_Func\obj\Debug\net7.0\ref\4_Урок_Func.dll

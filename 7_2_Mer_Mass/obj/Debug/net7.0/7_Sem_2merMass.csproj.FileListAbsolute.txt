@@ -1,0 +1,14 @@
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\bin\Debug\net7.0\7_Sem_2merMass.exe
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\bin\Debug\net7.0\7_Sem_2merMass.deps.json
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\bin\Debug\net7.0\7_Sem_2merMass.runtimeconfig.json
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\bin\Debug\net7.0\7_Sem_2merMass.dll
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\bin\Debug\net7.0\7_Sem_2merMass.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\obj\Debug\net7.0\7_Sem_2merMass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\obj\Debug\net7.0\7_Sem_2merMass.AssemblyInfoInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\obj\Debug\net7.0\7_Sem_2merMass.AssemblyInfo.cs
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\obj\Debug\net7.0\7_Sem_2merMass.csproj.CoreCompileInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\obj\Debug\net7.0\7_Sem_2merMass.dll
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\obj\Debug\net7.0\refint\7_Sem_2merMass.dll
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\obj\Debug\net7.0\7_Sem_2merMass.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\obj\Debug\net7.0\7_Sem_2merMass.genruntimeconfig.cache
+C:\Users\Это ПТО\Desktop\C#\GB\7_Sem_2merMass\obj\Debug\net7.0\ref\7_Sem_2merMass.dll

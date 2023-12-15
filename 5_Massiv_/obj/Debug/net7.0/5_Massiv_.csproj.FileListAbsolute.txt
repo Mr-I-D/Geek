@@ -1,0 +1,14 @@
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\bin\Debug\net7.0\5_Massiv_.exe
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\bin\Debug\net7.0\5_Massiv_.deps.json
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\bin\Debug\net7.0\5_Massiv_.runtimeconfig.json
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\bin\Debug\net7.0\5_Massiv_.dll
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\bin\Debug\net7.0\5_Massiv_.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\obj\Debug\net7.0\5_Massiv_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\obj\Debug\net7.0\5_Massiv_.AssemblyInfoInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\obj\Debug\net7.0\5_Massiv_.AssemblyInfo.cs
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\obj\Debug\net7.0\5_Massiv_.csproj.CoreCompileInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\obj\Debug\net7.0\5_Massiv_.dll
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\obj\Debug\net7.0\refint\5_Massiv_.dll
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\obj\Debug\net7.0\5_Massiv_.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\obj\Debug\net7.0\5_Massiv_.genruntimeconfig.cache
+C:\Users\Это ПТО\Desktop\C#\GB\5_Massiv_\obj\Debug\net7.0\ref\5_Massiv_.dll

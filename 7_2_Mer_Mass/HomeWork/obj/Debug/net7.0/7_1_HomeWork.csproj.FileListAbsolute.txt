@@ -1,0 +1,14 @@
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\bin\Debug\net7.0\7_1_HomeWork.exe
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\bin\Debug\net7.0\7_1_HomeWork.deps.json
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\bin\Debug\net7.0\7_1_HomeWork.runtimeconfig.json
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\bin\Debug\net7.0\7_1_HomeWork.dll
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\bin\Debug\net7.0\7_1_HomeWork.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\obj\Debug\net7.0\7_1_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\obj\Debug\net7.0\7_1_HomeWork.AssemblyInfoInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\obj\Debug\net7.0\7_1_HomeWork.AssemblyInfo.cs
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\obj\Debug\net7.0\7_1_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\obj\Debug\net7.0\7_1_HomeWork.dll
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\obj\Debug\net7.0\refint\7_1_HomeWork.dll
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\obj\Debug\net7.0\7_1_HomeWork.pdb
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\obj\Debug\net7.0\7_1_HomeWork.genruntimeconfig.cache
+C:\Users\Это ПТО\Desktop\C#\GB\7_1_HomeWork\obj\Debug\net7.0\ref\7_1_HomeWork.dll
