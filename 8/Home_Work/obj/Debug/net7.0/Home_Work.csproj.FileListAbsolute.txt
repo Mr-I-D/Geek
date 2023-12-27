@@ -1,0 +1,14 @@
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\bin\Debug\net7.0\Home_Work.exe
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\bin\Debug\net7.0\Home_Work.deps.json
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\bin\Debug\net7.0\Home_Work.runtimeconfig.json
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\bin\Debug\net7.0\Home_Work.dll
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\bin\Debug\net7.0\Home_Work.pdb
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\obj\Debug\net7.0\Home_Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\obj\Debug\net7.0\Home_Work.AssemblyInfoInputs.cache
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\obj\Debug\net7.0\Home_Work.AssemblyInfo.cs
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\obj\Debug\net7.0\Home_Work.csproj.CoreCompileInputs.cache
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\obj\Debug\net7.0\Home_Work.dll
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\obj\Debug\net7.0\refint\Home_Work.dll
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\obj\Debug\net7.0\Home_Work.pdb
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\obj\Debug\net7.0\Home_Work.genruntimeconfig.cache
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\Home_Work\obj\Debug\net7.0\ref\Home_Work.dll
