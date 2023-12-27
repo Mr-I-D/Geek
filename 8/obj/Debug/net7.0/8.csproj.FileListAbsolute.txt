@@ -1,0 +1,14 @@
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\bin\Debug\net7.0\8.exe
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\bin\Debug\net7.0\8.deps.json
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\bin\Debug\net7.0\8.runtimeconfig.json
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\bin\Debug\net7.0\8.dll
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\bin\Debug\net7.0\8.pdb
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\obj\Debug\net7.0\8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\obj\Debug\net7.0\8.AssemblyInfoInputs.cache
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\obj\Debug\net7.0\8.AssemblyInfo.cs
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\obj\Debug\net7.0\8.csproj.CoreCompileInputs.cache
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\obj\Debug\net7.0\8.dll
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\obj\Debug\net7.0\refint\8.dll
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\obj\Debug\net7.0\8.pdb
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\obj\Debug\net7.0\8.genruntimeconfig.cache
+C:\Users\Это ПТО\Desktop\GEEK\Geek\8\obj\Debug\net7.0\ref\8.dll
